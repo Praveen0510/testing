@@ -1,4 +1,4 @@
-“%CD%\python-3.5.1.exe” /quiet InstallAllUsers=1 PrependPath=1 Include_test=0 TargetDir=c:\Python351
+“C:\jenkins\workspace\TestAutomation1\python-3.6.5.exe” /quiet InstallAllUsers=1 PrependPath=1 Include_test=0 TargetDir=c:\Python
 
 set test=C:\Users\username\AppData\Local\Programs\Python\Python35-32\Lib\site-packages
 
